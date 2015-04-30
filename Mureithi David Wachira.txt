@@ -1,0 +1,16 @@
+
+/**************************************************************************
+ *                   Mureithi David Wachira                               *
+ *                   P15/2204/2011                                        *
+ *                                                                        *
+ *                   University of Nairobi                                *
+ *                   School of Computing & Informatics                    *
+ *                                                                        *
+ *                   Due Date: Monday 14th January 2013                   *
+ *                                                                        *
+ *                   CSC 112: Programming Methodology                     *  
+ *                            CSC112_PRJ                                  *
+ *									  *
+ *                							  *
+ *                                                                        *
+ *************************************************************************/
